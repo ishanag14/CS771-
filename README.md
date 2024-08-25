@@ -1,4 +1,4 @@
-# Recommender-Systems-for-Grocery-Retail
+# Recommender-Systems-for-Grocery-Retail CS771
 
 ## Objective 
 • To develop a Recommender System that suggests groceries based on customers preferences & their purchase history
